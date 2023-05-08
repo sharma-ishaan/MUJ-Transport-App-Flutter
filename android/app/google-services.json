@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1075115154014",
+    "project_id": "muj-carpool-app",
+    "storage_bucket": "muj-carpool-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1075115154014:android:8710f1abf8cb280f0132cf",
+        "android_client_info": {
+          "package_name": "com.example.taxi_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1075115154014-el73cspk7gucjfnogagao1oted3im04o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPDU1hQEvBb31HHNoTKCdjLgS1oZ_Zbko"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1075115154014-el73cspk7gucjfnogagao1oted3im04o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
