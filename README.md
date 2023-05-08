@@ -1,16 +1,15 @@
-# taxi_app
+# MUJ Transportation System
 
-A new Flutter project.
+A Flutter application for Booking Cabs, Car Pooling and Managing your transport to-and-from MUJ campus
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a full stack Flutter App for MUJ Transportation System.
 
-A few resources to get you started if this is your first Flutter project:
+A few features:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- FIREBASE AUTHENTICATION (OTP)
+- FIREBASE DATABASE (Rest Api)
+- Splash Screen Startup
+- login screen 
+- Google Maps API
